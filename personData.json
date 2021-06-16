@@ -1,0 +1,38 @@
+[
+  {
+    "id": 0,
+    "name": "AmirHossein Golmohammadi",
+    "role": "Product Manager",
+	"company": "Dotin Co.",
+    "imageName": "amirh",
+	"isVerified": true,
+	"phone" : "+989305432322",
+  },
+  {
+    "id": 1,
+    "name": "Amin Nasseri",
+    "role": "Co-Founder",
+	"company": "AmiX",
+    "imageName": "amin",
+	"isVerified": true,
+	"phone" : "+989305432322",
+  },
+  {
+    "id": 2,
+    "name": "Arsalan Askari",
+    "role": "UX Designer",
+	"company": "AmiX",
+    "imageName": "arsalan",
+	"isVerified": false,
+	"phone" : "+989305432322",
+  },
+  {
+    "id": 3,
+    "name": "Ehsan Maghsodlu",
+    "role": "Visual Designer",
+	"company": "Dotin Co.",
+    "imageName": "ehsan",
+	"isVerified": true,
+	"phone" : "+989305432322",
+  }
+]
